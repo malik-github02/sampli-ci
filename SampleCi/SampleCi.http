@@ -1,0 +1,6 @@
+@SampleCi_HostAddress = http://localhost:5186
+
+GET {{SampleCi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
